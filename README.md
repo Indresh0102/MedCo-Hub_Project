@@ -35,7 +35,7 @@ Simulate building a scalable, production-ready healthcare platform as done by re
 
 Below is the wireframe showing the main screens and navigation flow of the MedCo-Hub application.
 
-![MedCo-Hub UI Flow](assets/Figma_UI_Flow.png)
+![MedCo-Hub UI Flow](assets/Figma_UIUX_Flow.png) 
 
 ---
 
