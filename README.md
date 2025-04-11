@@ -31,6 +31,12 @@ Simulate building a scalable, production-ready healthcare platform as done by re
 - ✅ Sprint 1: GitHub repo, .gitignore, setup
 - 🔜 Sprint 2: Wireframes, Auth flows
 
+## 🧩 UI Flow (Figma)
+
+Below is the wireframe showing the main screens and navigation flow of the MedCo-Hub application.
+
+![MedCo-Hub UI Flow](assets/Figma_UI_Flow.png)
+
 ---
 
 ## 💼 For Interviewers:
