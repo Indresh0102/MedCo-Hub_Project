@@ -1,11 +1,11 @@
-## Sprint 2 - Design & Project Setup
+# Sprint 2 - Medicine Model & Admin Panel 🧪
 
-### ✅ Goals:
-- [x] Upload Figma UI Flow
-- [ ] Create frontend/ and backend/ folders
-- [ ] Setup DRF backend boilerplate
-- [ ] Add dummy data for medicines
-- [ ] Connect frontend to backend (React API calls)
+## Goals
+- Create Medicine model
+- Add admin registration with custom display
+- Test admin panel CRUD
 
-### Assigned To: Indresh0102
-
+## Highlights
+- Medicine model: name, brand, price, stock, mg, expiry_date
+- Admin panel registered
+- Admin tested with dummy login (MedCoHub / Medicine123#)

@@ -1,7 +1,8 @@
 from rest_framework import generics, mixins
 from rest_framework.permissions import IsAdminUser
-from medicines.models import Medicine
-from medicines.serializers import MedicineSerializer
+from apps.medicines.models import Medicine
+from apps.medicines.serializers import MedicineSerializer
+
 
 # LIST + CREATE
 class MedicineListCreateView(mixins.ListModelMixin,

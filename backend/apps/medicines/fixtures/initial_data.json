@@ -1,0 +1,50 @@
+[
+{
+  "model": "medicines.medicine",
+  "pk": 1,
+  "fields": {
+    "name": "paracetamol",
+    "brand": "Calpol",
+    "price": "50.00",
+    "stock": 70,
+    "mg": 100,
+    "expiry_date": "2025-09-17T18:00:00Z"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 2,
+  "fields": {
+    "name": "dolo tablets",
+    "brand": "Paracetamol",
+    "price": "105.00",
+    "stock": 209,
+    "mg": 650,
+    "expiry_date": "2025-08-10T05:00:00Z"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 3,
+  "fields": {
+    "name": "Omega 3 Capsules",
+    "brand": "GNC Fish Oil",
+    "price": "590.00",
+    "stock": 70,
+    "mg": 1000,
+    "expiry_date": "2025-10-10T13:45:00Z"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 4,
+  "fields": {
+    "name": "Omega 3 oil",
+    "brand": "man mattersl",
+    "price": "600.00",
+    "stock": 80,
+    "mg": 1000,
+    "expiry_date": "2025-11-10T13:45:00Z"
+  }
+}
+]
