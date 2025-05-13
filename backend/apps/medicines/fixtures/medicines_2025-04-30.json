@@ -1,0 +1,132 @@
+[
+{
+  "model": "medicines.medicine",
+  "pk": 1,
+  "fields": {
+    "name": "paracetamol",
+    "brand": "Calpol",
+    "price": "50.00",
+    "stock": 70,
+    "mg": 100,
+    "expiry_date": "2025-09-17T18:00:00Z",
+    "category": "other"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 2,
+  "fields": {
+    "name": "dolo tablets",
+    "brand": "Paracetamol",
+    "price": "105.00",
+    "stock": 209,
+    "mg": 650,
+    "expiry_date": "2025-08-10T05:00:00Z",
+    "category": "other"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 3,
+  "fields": {
+    "name": "Omega 3 Capsules",
+    "brand": "GNC Fish Oil",
+    "price": "590.00",
+    "stock": 70,
+    "mg": 1000,
+    "expiry_date": "2025-10-10T13:45:00Z",
+    "category": "other"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 4,
+  "fields": {
+    "name": "Omega 3 oil",
+    "brand": "man mattersl",
+    "price": "600.00",
+    "stock": 80,
+    "mg": 1000,
+    "expiry_date": "2025-11-10T13:45:00Z",
+    "category": "other"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 6,
+  "fields": {
+    "name": "multivitamin energy pill",
+    "brand": "Astrazenica",
+    "price": "50.00",
+    "stock": 90,
+    "mg": 500,
+    "expiry_date": "2025-09-17T18:00:00Z",
+    "category": "other"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 10,
+  "fields": {
+    "name": "multivitamin Capsules 30",
+    "brand": "man matters",
+    "price": "590.00",
+    "stock": 40,
+    "mg": 1000,
+    "expiry_date": "2025-10-30T13:45:00Z",
+    "category": "other"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 11,
+  "fields": {
+    "name": "multivitamin Capsules 30U",
+    "brand": "man matters",
+    "price": "433.00",
+    "stock": 10,
+    "mg": 500,
+    "expiry_date": "2025-10-30T13:45:00Z",
+    "category": "other"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 12,
+  "fields": {
+    "name": "Vitamin D3 Softgels",
+    "brand": "HealthKart",
+    "price": "200.00",
+    "stock": 120,
+    "mg": 1000,
+    "expiry_date": "2025-12-31T00:00:00Z",
+    "category": "vitamins"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 13,
+  "fields": {
+    "name": "Ibuprofen Tablets",
+    "brand": "Brufen",
+    "price": "70.00",
+    "stock": 150,
+    "mg": 400,
+    "expiry_date": "2025-10-15T00:00:00Z",
+    "category": "painkillers"
+  }
+},
+{
+  "model": "medicines.medicine",
+  "pk": 14,
+  "fields": {
+    "name": "Omega-3 Fish Oil Capsules",
+    "brand": "GNC",
+    "price": "600.00",
+    "stock": 80,
+    "mg": 1000,
+    "expiry_date": "2025-09-01T00:00:00Z",
+    "category": "supplements"
+  }
+}
+]
