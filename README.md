@@ -28,17 +28,7 @@ MedCo-Hub is a real-world healthcare e-commerce platform built using Django (Bac
 Simulate building a scalable, production-ready healthcare platform as done by real companies in industry.
 
 ## 📅 Sprint Progress
-✅ Sprint 1: GitHub repo initialized, Django project created, apps structure planned
-
-✅ Sprint 2: Models created, Admin registered, database migrations applied
-
-✅ Sprint 3: API endpoints with DRF for CRUD, tested via browsable API, fixtures created
-
-🚀 Sprint 4: JWT Auth + Patient Model + Retailer Signups [⏳ In Progress]
-
-⏭️ Sprint 5: Frontend integration, User Dashboards, Search & Filters, Pagination
-
-🎯 Sprint 6: Retailer Panel, Order system (future vision), Payments (optional SaaS plan)
+on going
 
 ## 🧩 UI Flow (Figma)
 
@@ -79,13 +69,3 @@ Base: `/api/v1/medicines/`
 }
 ```
 
-## 🧩 Fixtures
-```bash
-# Save current DB entries
-python manage.py dumpdata medicines.Medicine --indent 2 > apps/medicines/fixtures/initial_data.json
-
-# Load fixture data into DB
-python manage.py loaddata apps/medicines/fixtures/initial_data.json
-```
-## 💼 For Interviewers:
-This project is structured like a real-world product — complete with version control, modular code, API integration, and user-centered design.
